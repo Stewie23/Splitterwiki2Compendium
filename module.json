@@ -1,15 +1,12 @@
 {
   "id": "splitterwiki-to-compendium",
   "title": "Splitterwiki to Compendium",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "url": "",
-  "download": "",
-  "manifest": "",
-  "bugs": "",
+  "manifest": "https://github.com/Stewie23/Splitterwiki2Compendium/blob/main/module.json",
   "description": "Uses the Splitterwiki API to create Compendiums with Splittermond stuff",
   "authors": [
     {
