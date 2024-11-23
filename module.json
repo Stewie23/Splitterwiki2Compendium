@@ -6,7 +6,7 @@
     "minimum": "11",
     "verified": "11"
   },
-  "manifest": "https://github.com/Stewie23/Splitterwiki2Compendium/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Stewie23/Splitterwiki2Compendium/refs/heads/main/module.json",
   "description": "Uses the Splitterwiki API to create Compendiums with Splittermond stuff",
   "authors": [
     {
