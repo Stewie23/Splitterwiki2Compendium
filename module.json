@@ -1,0 +1,37 @@
+{
+  "id": "splitterwiki-to-compendium",
+  "title": "Splitterwiki to Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "url": "",
+  "download": "",
+  "manifest": "",
+  "bugs": "",
+  "description": "Uses the Splitterwiki API to create Compendiums with Splittermond stuff",
+  "authors": [
+    {
+      "name": "Benjamin",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+	"splitterwiki2compendium.js"
+    ],
+  "packs": [
+    {
+      "name": "splitterwiki",
+      "label": "Splitterwiki",
+      "path": "packs/splitterwiki",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "splittermond",
+      "flags": {}
+    }
+  ]
+}
